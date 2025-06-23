@@ -16,3 +16,14 @@ python src/main.py <input_file> --preview
 # preview without copying by omitting the output file
 python src/main.py <input_file>
 ```
+
+### Graphical preview
+
+A minimal Tkinter interface is also provided. Launch it with:
+
+```bash
+python src/gui.py
+```
+
+Click **Open File** and choose a `.fbx` or `.glb` model to see it rotating in a
+separate window.
