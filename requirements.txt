@@ -1,2 +1,1 @@
-# Currently this project only relies on the Python standard library.
-# Add additional dependencies here when needed.
+open3d
